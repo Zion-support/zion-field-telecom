@@ -7,8 +7,8 @@
 - 🕸️ [App Network Hub](https://ziontechgroup.com/zion-app-network/)
 - 🏠 [Zion Tech Group homepage](https://ziontechgroup.com/)
 
-## Zion Field verticals
-- [Field Agriculture](https://github.com/Zion-support/zion-field-agriculture) · [Field Healthcare](https://github.com/Zion-support/zion-field-healthcare) · [Field Retail](https://github.com/Zion-support/zion-field-retail) · [Field Hospitality](https://github.com/Zion-support/zion-field-hospitality) · [Field Education](https://github.com/Zion-support/zion-field-education) · [Field Media](https://github.com/Zion-support/zion-field-media) · [Field Customs](https://github.com/Zion-support/zion-field-customs) · [Field Planner](https://github.com/Zion-support/zion-field-planner)
+## Zion Field satellites
+- [Field Planner](https://ziontechgroup.com/zion-field-planner/) · [Agriculture](https://ziontechgroup.com/zion-field-agriculture/) · [Healthcare](https://ziontechgroup.com/zion-field-healthcare/) · [Retail](https://ziontechgroup.com/zion-field-retail/) · [Telecom](https://ziontechgroup.com/zion-field-telecom/) · [Hospitality](https://ziontechgroup.com/zion-field-hospitality/) · [Education](https://ziontechgroup.com/zion-field-education/) · [Media](https://ziontechgroup.com/zion-field-media/) · [Customs](https://ziontechgroup.com/zion-field-customs/)
 
 ---
 © 2026 Zion Tech Group · commercial@ziontechgroup.com
